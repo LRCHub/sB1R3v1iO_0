@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Selir Hati",
+  "base_artist": "T.R.I.A.D",
+  "createdAt": "2026-03-10T20:11:38.965792Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Selir Hati",
+      "artist": "Triad",
+      "has_synced": false,
+      "path": "select/01_Selir_Hati_Triad.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Selir Hati",
+      "artist": "Triad",
+      "has_synced": true,
+      "path": "select/02_Selir_Hati_Triad.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Selir Hati",
+      "artist": "T.R.I.A.D",
+      "has_synced": true,
+      "path": "select/03_Selir_Hati_T.R.I.A.D.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Selir Hati",
+      "artist": "Felix Irwan",
+      "has_synced": true,
+      "path": "select/04_Selir_Hati_Felix_Irwan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Selir Hati",
+      "artist": "Bella Nova",
+      "has_synced": true,
+      "path": "select/05_Selir_Hati_Bella_Nova.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Selir Hati",
+      "artist": "T.R.I.A.D",
+      "has_synced": false,
+      "path": "select/pl_01_Selir_Hati_T.R.I.A.D.txt"
+    }
+  ]
+}
